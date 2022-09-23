@@ -1,5 +1,5 @@
 {
-  "name": "handleglobal/nova-nested-form",
+  "name": "sas-adilis/nova-nested-form",
   "description": "A Laravel Nova package that allows you to create/update/delete nested related fields from a parent form.",
   "keywords": [
     "laravel",
